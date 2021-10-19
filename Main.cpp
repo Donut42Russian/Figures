@@ -13,4 +13,4 @@ int main() {
         << "\nCircle area:\t" << c.CalcArea() << "\t\tCircle perimeter:\t" << c.CalcPerimeter()
         << endl;
     return 0;
-}
+} 
